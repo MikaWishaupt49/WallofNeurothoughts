@@ -1,0 +1,95 @@
+/* pagina 1 */
+@font-face {
+
+}
+
+
+
+
+body {
+background-color: #3d6cbb;
+
+}
+
+
+
+
+
+
+
+
+p {
+font-size: 20px;
+color: white;
+
+}
+
+
+
+
+h1 {
+margin-top: 50px; 
+color: white;
+
+}
+h2 {
+
+margin-left: 10px;
+}
+
+.tekst1 {
+  background-color: red;
+}
+
+
+.logo {
+  width: 40%;
+  height: auto;
+}
+
+
+
+
+
+
+
+
+.button  {
+  margin-left: 50%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.instructies {
+  background-color: #3D66AB;
+}
